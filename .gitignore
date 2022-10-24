@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/1paq/obj/Debug
+*.user
+/Backup1/onepaq.Shared/Service References/AmazonService
+/ExternalReferences
+/onepaq.Shared/obj/Debug
+/onepaq.Shared/Service References/AmazonService

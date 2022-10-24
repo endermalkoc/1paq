@@ -1,0 +1,32 @@
+﻿.duration
+{
+    margin-top:-25px;
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    background:transparent
+}
+
+.thumbnail
+{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    background:transparent
+}
+
+.title
+{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    background:transparent;
+    text-decoration:none;
+    color:#03c;
+}
+

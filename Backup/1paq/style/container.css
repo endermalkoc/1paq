@@ -1,0 +1,73 @@
+﻿/*Navigation Container*/
+.Redmond_NavigationTitle
+{
+font-weight:bold;
+font-size:110%;
+}
+.Redmond_NavigationTitleCell
+{
+border-bottom: 1px solid #999;
+}
+.Redmond_NavigationModule
+{
+
+}
+
+
+/*MainSection Container*/
+.Redmond_MainSectionTitle
+{
+	font-weight:bold;
+	font-size:200%;
+	color:#339933;
+}
+.Redmond_MainSectionTitleCell
+{
+
+}
+.Redmond_MainSectionSpacer
+{
+	width:100%;
+	border-bottom:1 dotted #339933;
+	vertical-align:super;
+	margin-top:-15;
+}
+.Redmond_NavigationModule
+{
+
+}
+
+/*SideBar Container*/
+.Redmond_SidebarTable
+{
+	border-right: #dcdcdc 1px solid;
+	border-left: #dcdcdc 1px solid;
+	width: 130px;
+}
+.Redmond_SidebarTopCell
+{
+	font-size: 1px;
+	height: 1px;
+	background-color: #dcdcdc;
+}
+.Redmond_SideBarBottomCell
+{
+  height: 1px;
+  font-size:1px;
+  background-color:#dcdcdc;
+}
+.Redmond_SidebarTitle
+{
+	font-weight:bold;
+	font-size:110%;
+}
+.Redmond_SidebarTitleCell
+{
+background-color:#F1F1F1;
+}
+.Redmond_SidebarModule
+{
+ padding:3px; 
+ background-color:#F1F1F1;
+}
+

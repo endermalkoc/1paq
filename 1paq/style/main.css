@@ -1,0 +1,103 @@
+﻿.pagemaster {
+	width: 100%;
+	height: 100%;	
+	font-size:12px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+A:link { color:#003399; }
+A:visited { color:#800080; }
+A:hover { color:#FF3300; }
+
+.HeadPane {}
+.RightPane {}
+.LeftPane { width:160px; padding: 4px 4px 0px 4px; background-color:#f1f1f1; border-left: solid 1px #999; border-right: solid 1px #999; }
+.ContentPane {  padding: 0px 0px 0px 4px; height:100%; width:660px; }
+.LogoPane {}
+.BottomPane {  padding: 30px; text-align:left; }
+
+/*Top Links*/
+.TopLinks {
+	color:#FFFFFF;
+	font-size:0.8em;
+}
+A.TopLinks {
+	text-decoration:none;
+	font-size:0.8em;
+	padding: 2px 6px 2px 6px;
+	margin: 0px;
+	color:#FFFFFF;
+}
+A.TopLinks:hover {
+	border-right: #FFFFFF 1px solid;
+	border-top: #FFFFFF 1px solid;
+	border-left: #FFFFFF 1px solid;
+	border-bottom: #FFFFFF 1px solid;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin: 0px;
+	text-decoration: none;
+	color: #ff3300;
+}
+
+/*BottomLinks*/
+.Links {
+	color:003399;
+	font-size:1em;
+}
+A.Links {
+	text-decoration:none;
+	padding: 2px 6px 2px 6px;
+	color:#003399;
+}
+A.Links:visited {
+	text-decoration:none;
+	padding: 2px 6px 2px 6px;
+	color:#003399;
+}
+A.Links:hover {
+	border-right: #0A6CCE 1px solid;
+	border-top: #0A6CCE 1px solid;
+	border-left: #0A6CCE 1px solid;
+	border-bottom: #0A6CCE 1px solid;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	color: #ff3300;
+	text-decoration: none;
+}
+
+.Title {
+	font-family: Tahoma, Arial, Helvetica;
+	font-size:  16px;
+	font-weight:    bold;
+}
+TD {
+	font-family: Verdana, Arial, Helvetica;
+}
+#menuTD {
+	font-family: Verdana, Arial, Helvetica;
+	display: block;
+	border: solid 1px #000000;
+	padding: 2px 6px 2px 6px;
+	margin: 0px;
+	background: #CCC;
+	color:#000000;
+	text-decoration:none;
+}
+#LogoCell {
+	color:#0A6CCE;
+	height:45px;
+	background-color:#FFFFFF;
+}
+#TopMenu {
+	height:20px;
+	border-top: solid 1px #999;
+	border-bottom: solid 1px #999;
+	background-color:#F1F1F1;
+}
+
